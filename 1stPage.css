@@ -1,0 +1,53 @@
+Body{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  background-color:black;
+  margin: 0;
+}
+.text{
+  color: white;
+  margin-top: 100px;
+  text-align: center;
+  font-size: 35px;
+  font-family: Belanosima;
+}
+
+.border-button{
+  margin-top: 10px;
+}
+.TakeTheOrder-button{
+  width: 200px;
+  height: 120px;
+  background-color: rgb(206, 191, 24);
+}
+
+.CookTheOrder-button{
+  width: 200px;
+  height: 120px;
+  margin-left: 10px;
+  background-color: rgb(147, 15, 15);
+}
+.Book-button{
+  width: 200px;
+  height: 120px;
+  margin-top: 10px;
+  background-color: rgb(14, 123, 20);
+}
+.History-button{
+  width: 200px;
+  height: 120px;
+  margin-left: 10px;
+  background-color: rgb(14, 17, 149);
+}
+.Order-img{
+  margin-top: 10px;
+width: 50px;
+}
+.Order-text{
+  margin-bottom: 5px;
+  background-color: white;
+  border-radius: 20px;
+  padding: 5px 5px;
+  display: row;
+}

@@ -1,0 +1,63 @@
+body{
+  margin: 0;
+  height: 900px;
+  background-color: black;
+    text-align: center;
+  align-items: center;
+  
+  
+}
+
+.text{
+  color: white;
+  font-family: Belanosima;
+
+}
+.Input-box{
+  width: 250px;
+  height: 50px;
+
+}
+.Enter-button{
+  margin-top: 30px;
+
+  width: 70px;
+  height: 50px;
+
+  background-color: rgb(14, 123, 20);
+  
+}
+
+.Menu{
+   display: flex;
+   overflow-x: auto;
+
+
+}
+.Product-info {
+ width: 200px;
+ height: 70px;
+ font-size: 20px;
+ margin-right: 5px;
+ margin-left: 5px;
+  margin-top: 20px;
+}
+.extra-buttons {
+  margin-top: 20px; /* Space between Menu and new buttons */
+  margin-bottom: 10px;
+}
+
+.menu-menu{
+  background-color: aliceblue;
+  border-top: 30px;
+  width: 200%;
+  height: 5px;
+
+}
+
+.order-done{
+  margin-top: 10px;
+  background-color: green;
+  width: 100px;
+  height: 50px;
+}

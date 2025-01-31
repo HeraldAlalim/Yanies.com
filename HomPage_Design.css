@@ -1,0 +1,55 @@
+body{
+  margin: 0;
+  font-family: Arial, sans-serif;
+  color: #fff;
+  background: linear-gradient(to top,  #4f0303, #000, #000, #000);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.first-page{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Logo{
+  width: 500px;
+}
+
+.button{
+  width: 200px;
+  height: 50px;
+  background-color: green;
+  color: #fff;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+
+.text{
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin-bottom: 0px;
+
+}
+
+.text1{
+  font-size: 30px;
+  line-height: 1.5;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-family: Belanosima;
+
+}
+.text2{
+  font-size: 16px;
+  line-height: 1.5;
+  margin-top: 0px;
+  font-family: Sora;
+}
+
